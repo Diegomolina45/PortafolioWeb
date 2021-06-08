@@ -173,7 +173,8 @@ h3 {
 }
 .legal {
     background-color: whitesmoke;
-    position: relative;
+    width: 100%;
+    position: absolute;
     z-index: 99;
 }
 .nv {
